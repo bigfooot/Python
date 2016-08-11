@@ -1,0 +1,14 @@
+Learning Tools & Training...
+
+IDLE
+
+# Very beginner with 
+# IDLE and modul [with CMD] install, pypi (index) library
+# Create KLM file, 
+# Docs, pdf, user guide, links, library, scripts,
+Python Anaconda (Spyder)  https://www.continuum.io/downloads | Udemy https://www.udemy.com/ardit-sulce-python-for-beginners
+
+
+
+======================================================================================================================
+
